@@ -3,7 +3,7 @@
  *  Copyright 2021 Rebecca Pina Partidas
  */
 
-
+// Include statements
 #include<iostream>
 #include<iomanip>
 #include<fstream>
@@ -21,4 +21,5 @@
 #include<random>
 #include<stdexcept>
 
+// Defines namespace
 using namespace std;
